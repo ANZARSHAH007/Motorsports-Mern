@@ -1,0 +1,11 @@
+# root
+.env
+node_modules/
+
+# frontend
+motor-sports/node_modules/
+motor-sports/.env
+
+# backend
+backend/node_modules/
+backend/.env
